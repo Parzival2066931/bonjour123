@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Gestion de projets
 
 > Objectif: livrer de la **valeur** en respectant un _triangle_ classique : périmètre, temps ,coût. Tout comme dans le site sur ce [lien](https://www.youtube.com/@parzival_gaming176)
